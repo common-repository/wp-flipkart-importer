@@ -1,0 +1,64 @@
+.intro
+{
+ font-family: Verdana, Helvetica, sans-serif;
+ font-size: 12px; 
+ color:#444;
+ font-weight: none;
+}
+.inputRequirement
+{
+ color:#ff0000;
+}
+.flipkartImporterInput
+{
+ width:70%;
+}
+h3.flipkart_heading
+{
+ color:#000088;
+}
+h4.flipkart_heading1
+{
+ color:#0000aa;
+}
+
+ul.flipkart_help_square
+{
+ list-style-type:square;
+ padding:6px;
+}
+.middle_table1
+{
+ background: #d0d0d0;
+}
+.middle_table2
+{
+ background: #ffffff;
+}
+.dataTableHeadingRow 
+{ 
+ height:27px;
+ background-color: #5D5D5D;
+}
+.dataTableHeadingRow1 
+{ 
+ background-color: #5D5D5D;
+}
+.dataTableHeadingContent 
+{ 
+ font-family: Arial,Verdana, Helvetica, sans-serif; 
+ font-size: 11px; 
+ color: #ffffff; 
+ font-weight: none; 
+ vertical-align:middle;
+}
+.dataTableRow1 
+{
+ height:20px;
+ background-color: #dedede; 
+}
+.dataTableRow2 
+{ 
+ height:20px;
+ background-color: #ffffff; 
+}
